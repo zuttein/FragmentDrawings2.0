@@ -3,6 +3,7 @@ package com.example.fragmentdrawings20
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
+
 class MainActivity : AppCompatActivity(), FragmentCommunicationListener {
 
     private val inputFragment = InputFragment()
